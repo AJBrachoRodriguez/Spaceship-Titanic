@@ -7,7 +7,7 @@ You can access the entire project in this link.
 
 In this project, an *API* was built in order to make predictions using a model of machine learninig (logistic regression) for the case of the *Kaggle* competition named "Spaceship Titanic". The api was built using *FastAPI*.
 
-![spaceship titanic](img/spaceShip.png)
+![spaceship titanic](img/spaceship-titanic.png)
 
 ### **Table of contents**
 
