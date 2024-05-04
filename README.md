@@ -1,15 +1,11 @@
-# **Spaceship Titanic**
-![ml with api](img/ml_image.png)
-
-You can access the entire project in this link.
+# **Spaceship Titanic**  📘
+![spaceship titanic](img/spaceship-titanic.png)
 
 ### **Description**
 
-In this project, an *API* was built in order to make predictions using a model of machine learninig (logistic regression) for the case of the *Kaggle* competition named "Spaceship Titanic". The api was built using *FastAPI*.
+In this project, an *API* was built in order to make predictions using a model of machine learninig (logistic regression) for the case of the *Kaggle* competition named "Spaceship Titanic". The api was built using *FastAPI*. The main purpose is to predict if the passengers of an intergalatic trip will be transported to another dimension based on several variables.
 
-![spaceship titanic](img/spaceship-titanic.png)
-
-### **Table of contents**
+### **Table of contents**  🔡
 
 - [Contents](#contents)
 - [How to Install and Run the Project](#how-to-install-and-run-the-project)
@@ -18,7 +14,7 @@ In this project, an *API* was built in order to make predictions using a model o
 - [Credits](#credits)
 - [Licence](#licence)
 
-### **Contents**
+### **Content of the repository**  🔖
 
 1. main.py
 2. models.py
@@ -28,29 +24,24 @@ In this project, an *API* was built in order to make predictions using a model o
 6. requirements.txt
 7. .gitignore
 
-You can access the whole repository here...
-
-### **How to Install and Run the Project**
-
-![docker](img/image.png)
+### **How to Install and Run the Project** 🏃‍♂️
 
 The project must be run on Docker, therefore, it must be deployed on that platform executing the Dockerfile included in the repository. 
 
-### **How to use the project**
-![files](img/image-1.png)
+### **How to use the project**  📂
 
-You can use any dataset in which the main purpose is to predict is a passenger would be transported or not. The format of the files could be *.csv*, *.xlm* or *.json*
+You can download the dataset in the following link:
 
-### **Contributions**
+https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv
+
+### **Contributions**  ✍️
 
 I would like to you to encourage to contribute in any form to the project through this public repository. 
 
-### **Credits**
+### **Credits**  🎈
 
 I would like to thank all the members of my team. Besides, I want to thank the support given by the team of Datapath. 
 
-### **Licence**
+### **Licence**  👮
 
 *GPL* Licence
-
-![the end](img/image-2.png)
