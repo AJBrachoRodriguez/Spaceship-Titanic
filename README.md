@@ -3,7 +3,7 @@
 
 ### **Description**
 
-In this project, an *API* was built in order to make predictions using a model of machine learninig (logistic regression) for the case of the *Kaggle* competition named "Spaceship Titanic". The api was built using *FastAPI*. The main purpose is to predict if the passengers of an intergalatic trip will be transported to another dimension based on several variables.
+The main purpose of this project is to predict if the passengers of an intergalatic trip will be transported to another dimension based on several variables. It was achieved using a model of machine learninig (logistic regression) for the case of the *Kaggle* competition named "Spaceship Titanic". 
 
 ### **Table of contents**  🔡
 
@@ -17,12 +17,11 @@ In this project, an *API* was built in order to make predictions using a model o
 ### **Content of the repository**  🔖
 
 1. main.py
-2. models.py
-3. routes.py
-4. controllers/prediction_controllers.py
-5. Dockerfile
-6. requirements.txt
-7. .gitignore
+2. notebook.ipynb
+3. requirements.txt
+4. .gitignore
+5. README.md
+6. .gitignore
 
 ### **How to Install and Run the Project** 🏃‍♂️
 
