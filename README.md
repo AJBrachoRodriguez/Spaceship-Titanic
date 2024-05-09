@@ -1,5 +1,5 @@
 # **Spaceship Titanic**  📘
-![spaceship titanic](img/spaceship-titanic.png)
+![spaceship titanic](img/spaceshipAPI.png)
 
 ### **Description**
 
